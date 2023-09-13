@@ -9,7 +9,7 @@
 
 ### 啥是 DDRaceNetwork/DDNet？
 
-游戏！令人上头！[官网](https://ddnet.org/)
+是个玩起来很上头的游戏！[官网](https://ddnet.org/)
 
 全平台，支持[Windows、Linux、MacOS](https://ddnet.org/downloads/)，甚至[安卓（废弃）](https://ddnet.org/downloads/#9.3)。通过 Steam 环境或者使用独立的二进制版本均可运行。
 

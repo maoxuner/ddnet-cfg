@@ -47,8 +47,8 @@
 | `ctrl`+`h` | 速飞开关                               |
 | `ctrl`+`x` | 切分身时自动切锤开关                   |
 | `t`        | 分身同步                               |
-| `n`        | 技能菜单（逐个显示）                   |
-| `m`        | 开关当前菜单显示的技能                 |
+| `m`        | 技能菜单（逐个显示）                   |
+| `o`        | 开关当前菜单显示的技能                 |
 
 ## 参考
 
@@ -100,8 +100,8 @@ If there is a `settings_ddnet.cfg` file, backup it, keep it safe.
 | `ctrl`+`h` | Deep fly on/off                                             |
 | `ctrl`+`x` | Hammer take on/off                                          |
 | `t`        | Dummy copy moves                                            |
-| `n`        | Menu(walk through skills)                                   |
-| `m`        | Turn on/off the skill in current menu                       |
+| `m`        | Menu(walk through skills)                                   |
+| `o`        | Turn on/off the skill in current menu                       |
 
 ## References
 

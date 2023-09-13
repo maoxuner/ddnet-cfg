@@ -9,9 +9,9 @@
 
 ### 啥是 DDRaceNetwork/DDNet？
 
-游戏！令人上头！[官网](https://ddnet.tw/)
+游戏！令人上头！[官网](https://ddnet.org/)
 
-全平台，支持[Windows、Linux、MacOS](https://ddnet.tw/downloads/)，甚至[安卓（废弃）](https://ddnet.tw/downloads/#9.3)。通过 Steam 环境或者使用独立的二进制版本均可运行。
+全平台，支持[Windows、Linux、MacOS](https://ddnet.org/downloads/)，甚至[安卓（废弃）](https://ddnet.org/downloads/#9.3)。通过 Steam 环境或者使用独立的二进制版本均可运行。
 
 ### 这是啥？
 
@@ -52,7 +52,7 @@
 
 ## 参考
 
-[Just bind it](https://forum.ddnet.tw/viewtopic.php?f=16&t=2537)
+[Just bind it](https://forum.ddnet.org/viewtopic.php?f=16&t=2537)
 
 ---
 
@@ -62,9 +62,9 @@
 
 ### What is DDRaceNetwork/DDNet?
 
-It's an awesome game! [Official Website](https://ddnet.tw/)
+It's an awesome game! [Official Website](https://ddnet.org/)
 
-Available for all polular platforms. [Windows/Linux/MacOS](https://ddnet.tw/downloads/), even [Android(deprecated)](https://ddnet.tw/downloads/#9.3). Steam runtime or standalone binary version is ok.
+Available for all polular platforms. [Windows/Linux/MacOS](https://ddnet.org/downloads/), even [Android(deprecated)](https://ddnet.org/downloads/#9.3). Steam runtime or standalone binary version is ok.
 
 ### What is this project?
 
@@ -105,4 +105,4 @@ If there is a `settings_ddnet.cfg` file, backup it, keep it safe.
 
 ## References
 
-[Just bind it](https://forum.ddnet.tw/viewtopic.php?f=16&t=2537)
+[Just bind it](https://forum.ddnet.org/viewtopic.php?f=16&t=2537)
